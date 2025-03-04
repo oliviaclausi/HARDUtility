@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HARDUtility",
   "resources": {
-    "hash": "sha256-wlztX87Ef7ndV9rSknuPtRjmXgSNyHpML6QFXr3X7w4=",
+    "hash": "sha256-/BkH3hcJOW9YY0XFkoLcn85NlHRPD7VlPFWOIqK+zTI=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.19066n4fpa.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "HARDUtility.wasm": "sha256-LFBaHer18Uapu7ZCzOJtCBscol7GAfqAuRhw0R7Cci0=",
+      "HARDUtility.wasm": "sha256-tWMsFPxrw4/cyWLNY2l1ZDAg0xTPAnpFIDwmu2I1JC4=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-hDgVU8dskq6ceJCAHgkHTu9K3i4UmrP6AkqkdHaRRQo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-VnMUskpCPmW1fX4qZihu4ZyOPWe/cSBWh229O8+OZxU=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9pa4TX6FPCR8IZ3hObhj8D/J0Rp+4PZ1bfCK0WQAIZ8=",
